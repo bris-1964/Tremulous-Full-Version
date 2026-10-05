@@ -248,4 +248,4 @@ This repository serves as the official landing page for **Tremulous**. The softw
 **Get the most recent version of Tremulous today!**
 
 ---
-**Last updated:** 2026-10-05 01:30:07 UTC
+**Last updated:** 2026-10-05 08:08:04 UTC
